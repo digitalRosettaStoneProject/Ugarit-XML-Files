@@ -1,0 +1,1447 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+<id>25704</id>
+<title>Synopsis HDG 20</title>
+<translator>Quirke/Andrews 1988: 16-22</translator>
+<aligned-text>
+	<language lnum="L1" xml:lang="EGY" />
+	<language lnum="L2" xml:lang="EGY" />
+	<language lnum="L3" xml:lang="GRC" />
+	<sentence n="1">
+		<wds lnum="L1">
+			<w n="1-1" tp="">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-2" tp="">
+				<text>[</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-3" tp="">
+				<text>.</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-4" tp="">
+				<text>.</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-5" tp="">
+				<text>.</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-6" tp="">
+				<text>]</text>
+				<refs nrefs="" />
+			</w>
+		</wds>
+		<wds lnum="L2">
+			<w n="2-1" tp="sen_1">
+				<text>ḥn=f</text>
+				<refs nrefs=" | 3-1 3-72 3-73 3-74" />
+			</w>
+			<w n="2-2" tp="sen_1">
+				<text>s</text>
+				<refs nrefs=" | 3-1 3-72 3-73 3-74" />
+			</w>
+			<w n="2-3" tp="sen_4">
+				<text>r</text>
+				<refs nrefs=" | 3-10 3-79 3-80" />
+			</w>
+			<w n="2-4" tp="sen_4">
+				<text>tm</text>
+				<refs nrefs=" | 3-10 3-79 3-80" />
+			</w>
+			<w n="2-5" tp="sen_5">
+				<text>kp</text>
+				<refs nrefs=" | 3-11 3-4 3-5 3-6 3-75 3-81 3-82" />
+			</w>
+			<w n="2-6" tp="sen_6">
+				<text>rmṯ-h̠n</text>
+				<refs nrefs=" | 3-77 3-78 3-8 3-9" />
+			</w>
+			<w n="2-7" tp="sen_7">
+				<text>wy=f</text>
+				<refs nrefs=" | 3-100 3-101 3-25 3-99" />
+			</w>
+			<w n="2-8" tp="sen_7">
+				<text>r</text>
+				<refs nrefs=" | 3-100 3-101 3-25 3-99" />
+			</w>
+			<w n="2-9" tp="sen_8">
+				<text>tꜣ</text>
+				<refs nrefs=" | 3-102 3-26 3-27 3-28" />
+			</w>
+			<w n="2-10" tp="sen_8">
+				<text>dni</text>
+				<refs nrefs=" | 3-102 3-26 3-27 3-28" />
+			</w>
+			<w n="2-11" tp="sen_8">
+				<text>.</text>
+				<refs nrefs=" | 3-102 3-26 3-27 3-28" />
+			</w>
+			<w n="2-12" tp="sen_8">
+				<text>t</text>
+				<refs nrefs=" | 3-102 3-26 3-27 3-28" />
+			</w>
+			<w n="2-13" tp="sen_8">
+				<text>2/3</text>
+				<refs nrefs=" | 3-102 3-26 3-27 3-28" />
+			</w>
+			<w n="2-14" tp="sen_15">
+				<text>n</text>
+				<refs nrefs=" | 3-13 3-22 3-24 3-88 3-89 3-90" />
+			</w>
+			<w n="2-15" tp="sen_15">
+				<text>nꜣ</text>
+				<refs nrefs=" | 3-13 3-22 3-24 3-88 3-89 3-90" />
+			</w>
+			<w n="2-16" tp="sen_15">
+				<text>šs-</text>
+				<refs nrefs=" | 3-13 3-22 3-24 3-88 3-89 3-90" />
+			</w>
+			<w n="2-17" tp="">
+				<text>(</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-18" tp="sen_15">
+				<text>n-</text>
+				<refs nrefs=" | 3-13 3-22 3-24 3-88 3-89 3-90" />
+			</w>
+			<w n="2-19" tp="">
+				<text>)</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-20" tp="sen_15">
+				<text>nsw</text>
+				<refs nrefs=" | 3-13 3-22 3-24 3-88 3-89 3-90" />
+			</w>
+			<w n="2-21" tp="sen_15">
+				<text>.</text>
+				<refs nrefs=" | 3-13 3-22 3-24 3-88 3-89 3-90" />
+			</w>
+			<w n="2-22" tp="sen_15">
+				<text>w</text>
+				<refs nrefs=" | 3-13 3-22 3-24 3-88 3-89 3-90" />
+			</w>
+			<w n="2-23" tp="sen_16">
+				<text>r-wn-nꜣw</text>
+				<refs nrefs=" | 3-18 3-91" />
+			</w>
+			<w n="2-24" tp="sen_16">
+				<text>iw=w</text>
+				<refs nrefs=" | 3-18 3-91" />
+			</w>
+			<w n="2-25" tp="sen_16">
+				<text>ir=w</text>
+				<refs nrefs=" | 3-18 3-91" />
+			</w>
+			<w n="2-26" tp="sen_14">
+				<text>r</text>
+				<refs nrefs=" | 3-15 3-16 3-17 3-95 3-96 3-97" />
+			</w>
+			<w n="2-27" tp="sen_14">
+				<text>pr-Pr-ꜥꜣ</text>
+				<refs nrefs=" | 3-15 3-16 3-17 3-95 3-96 3-97" />
+			</w>
+			<w n="2-28" tp="sen_13">
+				<text>n</text>
+				<refs nrefs=" | 3-19 3-20 3-21 3-92 3-93 3-94" />
+			</w>
+			<w n="2-29" tp="sen_13">
+				<text>nꜣ</text>
+				<refs nrefs=" | 3-19 3-20 3-21 3-92 3-93 3-94" />
+			</w>
+			<w n="2-30" tp="sen_13">
+				<text>irpy</text>
+				<refs nrefs=" | 3-19 3-20 3-21 3-92 3-93 3-94" />
+			</w>
+			<w n="2-31" tp="sen_13">
+				<text>.</text>
+				<refs nrefs=" | 3-19 3-20 3-21 3-92 3-93 3-94" />
+			</w>
+			<w n="2-32" tp="sen_13">
+				<text>w</text>
+				<refs nrefs=" | 3-19 3-20 3-21 3-92 3-93 3-94" />
+			</w>
+			<w n="2-33" tp="sen_18">
+				<text>md</text>
+				<refs nrefs=" | 3-104 3-33" />
+			</w>
+			<w n="2-34" tp="">
+				<text>(</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-35" tp="sen_18">
+				<text>.</text>
+				<refs nrefs=" | 3-104 3-33" />
+			</w>
+			<w n="2-36" tp="sen_18">
+				<text>t</text>
+				<refs nrefs=" | 3-104 3-33" />
+			</w>
+			<w n="2-37" tp="">
+				<text>)</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-38" tp="sen_18">
+				<text>nb</text>
+				<refs nrefs=" | 3-104 3-33" />
+			</w>
+			<w n="2-39" tp="">
+				<text>(</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-40" tp="sen_18">
+				<text>.</text>
+				<refs nrefs=" | 3-104 3-33" />
+			</w>
+			<w n="2-41" tp="sen_18">
+				<text>t</text>
+				<refs nrefs=" | 3-104 3-33" />
+			</w>
+			<w n="2-42" tp="">
+				<text>)</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-43" tp="sen_19">
+				<text>i</text>
+				<refs nrefs=" | 3-105 3-106 3-107 3-30 3-32" />
+			</w>
+			<w n="2-44" tp="sen_19">
+				<text>.</text>
+				<refs nrefs=" | 3-105 3-106 3-107 3-30 3-32" />
+			</w>
+			<w n="2-45" tp="sen_19">
+				<text>ir</text>
+				<refs nrefs=" | 3-105 3-106 3-107 3-30 3-32" />
+			</w>
+			<w n="2-46" tp="sen_19">
+				<text>ḫꜣꜥ</text>
+				<refs nrefs=" | 3-105 3-106 3-107 3-30 3-32" />
+			</w>
+			<w n="2-47" tp="sen_19">
+				<text>pꜣi=w</text>
+				<refs nrefs=" | 3-105 3-106 3-107 3-30 3-32" />
+			</w>
+			<w n="2-48" tp="sen_19">
+				<text>gy</text>
+				<refs nrefs=" | 3-105 3-106 3-107 3-30 3-32" />
+			</w>
+			<w n="2-49" tp="sen_17">
+				<text>n</text>
+				<refs nrefs=" | 3-108 3-109 3-110 3-34 3-35 3-36 3-37" />
+			</w>
+			<w n="2-50" tp="sen_17">
+				<text>ssw</text>
+				<refs nrefs=" | 3-108 3-109 3-110 3-34 3-35 3-36 3-37" />
+			</w>
+			<w n="2-51" tp="sen_17">
+				<text>ꜥšꜣy</text>
+				<refs nrefs=" | 3-108 3-109 3-110 3-34 3-35 3-36 3-37" />
+			</w>
+			<w n="2-52" tp="sen_20">
+				<text>iw=f</text>
+				<refs nrefs=" | 3-111 3-112 3-113 3-38" />
+			</w>
+			<w n="2-53" tp="sen_20">
+				<text>in</text>
+				<refs nrefs=" | 3-111 3-112 3-113 3-38" />
+			</w>
+			<w n="2-54" tp="sen_20">
+				<text>n-im=w</text>
+				<refs nrefs=" | 3-111 3-112 3-113 3-38" />
+			</w>
+			<w n="2-55" tp="">
+				<text>(</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-56" tp="sen_21">
+				<text>r</text>
+				<refs nrefs=" | 3-114 3-115 3-39 3-40 3-41 3-42" />
+			</w>
+			<w n="2-57" tp="">
+				<text>)</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-58" tp="sen_21">
+				<text>pꜣi=w</text>
+				<refs nrefs=" | 3-114 3-115 3-39 3-40 3-41 3-42" />
+			</w>
+			<w n="2-59" tp="sen_21">
+				<text>ḏnf</text>
+				<refs nrefs=" | 3-114 3-115 3-39 3-40 3-41 3-42" />
+			</w>
+			<w n="2-60" tp="sen_21">
+				<text>n</text>
+				<refs nrefs=" | 3-114 3-115 3-39 3-40 3-41 3-42" />
+			</w>
+			<w n="2-61" tp="">
+				<text>|11</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-62" tp="">
+				<text>[</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-63" tp="sen_21">
+				<text>mtr</text>
+				<refs nrefs=" | 3-114 3-115 3-39 3-40 3-41 3-42" />
+			</w>
+			<w n="2-64" tp="">
+				<text>]</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-65" tp="sen_22">
+				<text>iw=f</text>
+				<refs nrefs=" | 3-117 3-118 3-44" />
+			</w>
+			<w n="2-66" tp="sen_22">
+				<text>ir</text>
+				<refs nrefs=" | 3-117 3-118 3-44" />
+			</w>
+			<w n="2-67" tp="sen_22">
+				<text>nbw</text>
+				<refs nrefs=" | 3-117 3-118 3-44" />
+			</w>
+			<w n="2-68" tp="sen_22">
+				<text>nb</text>
+				<refs nrefs=" | 3-117 3-118 3-44" />
+			</w>
+			<w n="2-69" tp="sen_25">
+				<text>r</text>
+				<refs nrefs=" | 3-119 3-120 3-121 3-122 3-123 3-124 3-45 3-46 3-47 3-48" />
+			</w>
+			<w n="2-70" tp="sen_25">
+				<text>di</text>
+				<refs nrefs=" | 3-119 3-120 3-121 3-122 3-123 3-124 3-45 3-46 3-47 3-48" />
+			</w>
+			<w n="2-71" tp="sen_25">
+				<text>.</text>
+				<refs nrefs=" | 3-119 3-120 3-121 3-122 3-123 3-124 3-45 3-46 3-47 3-48" />
+			</w>
+			<w n="2-72" tp="sen_25">
+				<text>t</text>
+				<refs nrefs=" | 3-119 3-120 3-121 3-122 3-123 3-124 3-45 3-46 3-47 3-48" />
+			</w>
+			<w n="2-73" tp="sen_25">
+				<text>ir=w</text>
+				<refs nrefs=" | 3-119 3-120 3-121 3-122 3-123 3-124 3-45 3-46 3-47 3-48" />
+			</w>
+			<w n="2-74" tp="sen_25">
+				<text>nꜣ</text>
+				<refs nrefs=" | 3-119 3-120 3-121 3-122 3-123 3-124 3-45 3-46 3-47 3-48" />
+			</w>
+			<w n="2-75" tp="sen_25">
+				<text>nti</text>
+				<refs nrefs=" | 3-119 3-120 3-121 3-122 3-123 3-124 3-45 3-46 3-47 3-48" />
+			</w>
+			<w n="2-76" tp="sen_25">
+				<text>n</text>
+				<refs nrefs=" | 3-119 3-120 3-121 3-122 3-123 3-124 3-45 3-46 3-47 3-48" />
+			</w>
+			<w n="2-77" tp="sen_25">
+				<text>snṱ</text>
+				<refs nrefs=" | 3-119 3-120 3-121 3-122 3-123 3-124 3-45 3-46 3-47 3-48" />
+			</w>
+			<w n="2-78" tp="sen_25">
+				<text>n</text>
+				<refs nrefs=" | 3-119 3-120 3-121 3-122 3-123 3-124 3-45 3-46 3-47 3-48" />
+			</w>
+			<w n="2-79" tp="sen_25">
+				<text>ir=w</text>
+				<refs nrefs=" | 3-119 3-120 3-121 3-122 3-123 3-124 3-45 3-46 3-47 3-48" />
+			</w>
+			<w n="2-80" tp="sen_23">
+				<text>n</text>
+				<refs nrefs=" | 3-125 3-126 3-127 3-49 3-50" />
+			</w>
+			<w n="2-81" tp="sen_23">
+				<text>nꜣ</text>
+				<refs nrefs=" | 3-125 3-126 3-127 3-49 3-50" />
+			</w>
+			<w n="2-82" tp="sen_23">
+				<text>nṯr</text>
+				<refs nrefs=" | 3-125 3-126 3-127 3-49 3-50" />
+			</w>
+			<w n="2-83" tp="sen_23">
+				<text>.</text>
+				<refs nrefs=" | 3-125 3-126 3-127 3-49 3-50" />
+			</w>
+			<w n="2-84" tp="sen_23">
+				<text>w</text>
+				<refs nrefs=" | 3-125 3-126 3-127 3-49 3-50" />
+			</w>
+			<w n="2-85" tp="sen_24">
+				<text>n</text>
+				<refs nrefs=" | 3-128 3-129 3-131 3-51 3-52 3-54" />
+			</w>
+			<w n="2-86" tp="sen_24">
+				<text>gy</text>
+				<refs nrefs=" | 3-128 3-129 3-131 3-51 3-52 3-54" />
+			</w>
+			<w n="2-87" tp="sen_24">
+				<text>iw=f</text>
+				<refs nrefs=" | 3-128 3-129 3-131 3-51 3-52 3-54" />
+			</w>
+			<w n="2-88" tp="sen_24">
+				<text>mtr</text>
+				<refs nrefs=" | 3-128 3-129 3-131 3-51 3-52 3-54" />
+			</w>
+			<w n="2-89" tp="sen_24">
+				<text>.</text>
+				<refs nrefs=" | 3-128 3-129 3-131 3-51 3-52 3-54" />
+			</w>
+			<w n="2-90" tp="sen_24">
+				<text>w</text>
+				<refs nrefs=" | 3-128 3-129 3-131 3-51 3-52 3-54" />
+			</w>
+			<w n="2-91" tp="sen_28">
+				<text>pꜣi=s</text>
+				<refs nrefs=" | 3-133 3-134 3-55 3-56 3-57" />
+			</w>
+			<w n="2-92" tp="sen_28">
+				<text>smt</text>
+				<refs nrefs=" | 3-133 3-134 3-55 3-56 3-57" />
+			</w>
+			<w n="2-93" tp="sen_29">
+				<text>n</text>
+				<refs nrefs=" | 3-135 3-136 3-137 3-61" />
+			</w>
+			<w n="2-94" tp="sen_29">
+				<text>di</text>
+				<refs nrefs=" | 3-135 3-136 3-137 3-61" />
+			</w>
+			<w n="2-95" tp="sen_29">
+				<text>.</text>
+				<refs nrefs=" | 3-135 3-136 3-137 3-61" />
+			</w>
+			<w n="2-96" tp="sen_29">
+				<text>t</text>
+				<refs nrefs=" | 3-135 3-136 3-137 3-61" />
+			</w>
+			<w n="2-97" tp="sen_29">
+				<text>ir=w</text>
+				<refs nrefs=" | 3-135 3-136 3-137 3-61" />
+			</w>
+			<w n="2-98" tp="sen_26">
+				<text>pꜣ</text>
+				<refs nrefs=" | 3-138 3-58 3-59" />
+			</w>
+			<w n="2-99" tp="sen_26">
+				<text>hp</text>
+				<refs nrefs=" | 3-138 3-58 3-59" />
+			</w>
+			<w n="2-100" tp="sen_27">
+				<text>n</text>
+				<refs nrefs=" | 3-139 3-140 3-60" />
+			</w>
+			<w n="2-101" tp="sen_27">
+				<text>nꜣ</text>
+				<refs nrefs=" | 3-139 3-140 3-60" />
+			</w>
+			<w n="2-102" tp="sen_27">
+				<text>rmṯ</text>
+				<refs nrefs=" | 3-139 3-140 3-60" />
+			</w>
+			<w n="2-103" tp="sen_27">
+				<text>.</text>
+				<refs nrefs=" | 3-139 3-140 3-60" />
+			</w>
+			<w n="2-104" tp="sen_27">
+				<text>w</text>
+				<refs nrefs=" | 3-139 3-140 3-60" />
+			</w>
+			<w n="2-105" tp="sen_10">
+				<text>r-h̠</text>
+				<refs nrefs=" | 3-141 3-63" />
+			</w>
+			<w n="2-106" tp="sen_10">
+				<text>.</text>
+				<refs nrefs=" | 3-141 3-63" />
+			</w>
+			<w n="2-107" tp="sen_10">
+				<text>t</text>
+				<refs nrefs=" | 3-141 3-63" />
+			</w>
+			<w n="2-108" tp="">
+				<text>pꜣ</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-109" tp="">
+				<text>(</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-110" tp="">
+				<text>i</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-111" tp="">
+				<text>.</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-112" tp="">
+				<text>)</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-113" tp="">
+				<text>ir</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-114" tp="sen_11">
+				<text>Ḏḥw</text>
+				<refs nrefs=" | 3-142 3-64" />
+			</w>
+			<w n="2-115" tp="sen_11">
+				<text>.</text>
+				<refs nrefs=" | 3-142 3-64" />
+			</w>
+			<w n="2-116" tp="sen_11">
+				<text>tj</text>
+				<refs nrefs=" | 3-142 3-64" />
+			</w>
+			<w n="2-117" tp="sen_12">
+				<text>pꜣ-ꜥꜣ</text>
+				<refs nrefs=" | 3-143 3-144 3-145 3-146 3-65 3-66 3-67 3-68" />
+			</w>
+			<w n="2-118" tp="sen_12">
+				<text>pꜣ-ꜥꜣ</text>
+				<refs nrefs=" | 3-143 3-144 3-145 3-146 3-65 3-66 3-67 3-68" />
+			</w>
+			<w n="2-119" tp="">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-120" tp="">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-121" tp="sen_1">
+				<text>he</text>
+				<refs nrefs=" | 3-1 3-72 3-73 3-74" />
+			</w>
+			<w n="2-122" tp="sen_1">
+				<text>has</text>
+				<refs nrefs=" | 3-1 3-72 3-73 3-74" />
+			</w>
+			<w n="2-123" tp="sen_1">
+				<text>ordered</text>
+				<refs nrefs=" | 3-1 3-72 3-73 3-74" />
+			</w>
+			<w n="2-124" tp="sen_4">
+				<text>not</text>
+				<refs nrefs=" | 3-10 3-79 3-80" />
+			</w>
+			<w n="2-125" tp="sen_4">
+				<text>to</text>
+				<refs nrefs=" | 3-10 3-79 3-80" />
+			</w>
+			<w n="2-126" tp="sen_5">
+				<text>pressgang</text>
+				<refs nrefs=" | 3-11 3-4 3-5 3-6 3-75 3-81 3-82" />
+			</w>
+			<w n="2-127" tp="sen_6">
+				<text>sailors</text>
+				<refs nrefs=" | 3-77 3-78 3-8 3-9" />
+			</w>
+			<w n="2-128" tp="">
+				<text>;</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-129" tp="sen_7">
+				<text>he</text>
+				<refs nrefs=" | 3-100 3-101 3-25 3-99" />
+			</w>
+			<w n="2-130" tp="sen_7">
+				<text>has</text>
+				<refs nrefs=" | 3-100 3-101 3-25 3-99" />
+			</w>
+			<w n="2-131" tp="sen_7">
+				<text>remitted</text>
+				<refs nrefs=" | 3-100 3-101 3-25 3-99" />
+			</w>
+			<w n="2-132" tp="sen_8">
+				<text>two-thirds</text>
+				<refs nrefs=" | 3-102 3-26 3-27 3-28" />
+			</w>
+			<w n="2-133" tp="sen_15">
+				<text>of</text>
+				<refs nrefs=" | 3-13 3-22 3-24 3-88 3-89 3-90" />
+			</w>
+			<w n="2-134" tp="sen_15">
+				<text>the</text>
+				<refs nrefs=" | 3-13 3-22 3-24 3-88 3-89 3-90" />
+			</w>
+			<w n="2-135" tp="sen_15">
+				<text>royal</text>
+				<refs nrefs=" | 3-13 3-22 3-24 3-88 3-89 3-90" />
+			</w>
+			<w n="2-136" tp="sen_15">
+				<text>linen</text>
+				<refs nrefs=" | 3-13 3-22 3-24 3-88 3-89 3-90" />
+			</w>
+			<w n="2-137" tp="sen_16">
+				<text>which</text>
+				<refs nrefs=" | 3-18 3-91" />
+			</w>
+			<w n="2-138" tp="sen_16">
+				<text>is</text>
+				<refs nrefs=" | 3-18 3-91" />
+			</w>
+			<w n="2-139" tp="sen_16">
+				<text>paid</text>
+				<refs nrefs=" | 3-18 3-91" />
+			</w>
+			<w n="2-140" tp="sen_14">
+				<text>to</text>
+				<refs nrefs=" | 3-15 3-16 3-17 3-95 3-96 3-97" />
+			</w>
+			<w n="2-141" tp="sen_14">
+				<text>Pharaoh’s</text>
+				<refs nrefs=" | 3-15 3-16 3-17 3-95 3-96 3-97" />
+			</w>
+			<w n="2-142" tp="sen_14">
+				<text>House</text>
+				<refs nrefs=" | 3-15 3-16 3-17 3-95 3-96 3-97" />
+			</w>
+			<w n="2-143" tp="sen_13">
+				<text>by</text>
+				<refs nrefs=" | 3-19 3-20 3-21 3-92 3-93 3-94" />
+			</w>
+			<w n="2-144" tp="sen_13">
+				<text>the</text>
+				<refs nrefs=" | 3-19 3-20 3-21 3-92 3-93 3-94" />
+			</w>
+			<w n="2-145" tp="sen_13">
+				<text>temples</text>
+				<refs nrefs=" | 3-19 3-20 3-21 3-92 3-93 3-94" />
+			</w>
+			<w n="2-146" tp="">
+				<text>.</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-147" tp="sen_18">
+				<text>Everything</text>
+				<refs nrefs=" | 3-104 3-33" />
+			</w>
+			<w n="2-148" tp="sen_19">
+				<text>which</text>
+				<refs nrefs=" | 3-105 3-106 3-107 3-30 3-32" />
+			</w>
+			<w n="2-149" tp="sen_19">
+				<text>had</text>
+				<refs nrefs=" | 3-105 3-106 3-107 3-30 3-32" />
+			</w>
+			<w n="2-150" tp="sen_19">
+				<text>lost</text>
+				<refs nrefs=" | 3-105 3-106 3-107 3-30 3-32" />
+			</w>
+			<w n="2-151" tp="sen_19">
+				<text>its</text>
+				<refs nrefs=" | 3-105 3-106 3-107 3-30 3-32" />
+			</w>
+			<w n="2-152" tp="sen_19">
+				<text>order</text>
+				<refs nrefs=" | 3-105 3-106 3-107 3-30 3-32" />
+			</w>
+			<w n="2-153" tp="sen_17">
+				<text>for</text>
+				<refs nrefs=" | 3-108 3-109 3-110 3-34 3-35 3-36 3-37" />
+			</w>
+			<w n="2-154" tp="sen_17">
+				<text>time</text>
+				<refs nrefs=" | 3-108 3-109 3-110 3-34 3-35 3-36 3-37" />
+			</w>
+			<w n="2-155" tp="sen_17">
+				<text>untold</text>
+				<refs nrefs=" | 3-108 3-109 3-110 3-34 3-35 3-36 3-37" />
+			</w>
+			<w n="2-156" tp="sen_20">
+				<text>he</text>
+				<refs nrefs=" | 3-111 3-112 3-113 3-38" />
+			</w>
+			<w n="2-157" tp="sen_20">
+				<text>has</text>
+				<refs nrefs=" | 3-111 3-112 3-113 3-38" />
+			</w>
+			<w n="2-158" tp="sen_20">
+				<text>restored</text>
+				<refs nrefs=" | 3-111 3-112 3-113 3-38" />
+			</w>
+			<w n="2-159" tp="sen_21">
+				<text>to</text>
+				<refs nrefs=" | 3-114 3-115 3-39 3-40 3-41 3-42" />
+			</w>
+			<w n="2-160" tp="sen_21">
+				<text>its</text>
+				<refs nrefs=" | 3-114 3-115 3-39 3-40 3-41 3-42" />
+			</w>
+			<w n="2-161" tp="">
+				<text>|11</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-162" tp="">
+				<text>[</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-163" tp="sen_21">
+				<text>proper</text>
+				<refs nrefs=" | 3-114 3-115 3-39 3-40 3-41 3-42" />
+			</w>
+			<w n="2-164" tp="">
+				<text>]</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-165" tp="sen_21">
+				<text>condition</text>
+				<refs nrefs=" | 3-114 3-115 3-39 3-40 3-41 3-42" />
+			</w>
+			<w n="2-166" tp="">
+				<text>;</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-167" tp="sen_22">
+				<text>he</text>
+				<refs nrefs=" | 3-117 3-118 3-44" />
+			</w>
+			<w n="2-168" tp="sen_22">
+				<text>has</text>
+				<refs nrefs=" | 3-117 3-118 3-44" />
+			</w>
+			<w n="2-169" tp="sen_22">
+				<text>taken</text>
+				<refs nrefs=" | 3-117 3-118 3-44" />
+			</w>
+			<w n="2-170" tp="sen_22">
+				<text>every</text>
+				<refs nrefs=" | 3-117 3-118 3-44" />
+			</w>
+			<w n="2-171" tp="sen_22">
+				<text>care</text>
+				<refs nrefs=" | 3-117 3-118 3-44" />
+			</w>
+			<w n="2-172" tp="sen_25">
+				<text>to</text>
+				<refs nrefs=" | 3-119 3-120 3-121 3-122 3-123 3-124 3-45 3-46 3-47 3-48" />
+			</w>
+			<w n="2-173" tp="sen_25">
+				<text>see</text>
+				<refs nrefs=" | 3-119 3-120 3-121 3-122 3-123 3-124 3-45 3-46 3-47 3-48" />
+			</w>
+			<w n="2-174" tp="sen_25">
+				<text>done</text>
+				<refs nrefs=" | 3-119 3-120 3-121 3-122 3-123 3-124 3-45 3-46 3-47 3-48" />
+			</w>
+			<w n="2-175" tp="sen_25">
+				<text>that</text>
+				<refs nrefs=" | 3-119 3-120 3-121 3-122 3-123 3-124 3-45 3-46 3-47 3-48" />
+			</w>
+			<w n="2-176" tp="sen_25">
+				<text>which</text>
+				<refs nrefs=" | 3-119 3-120 3-121 3-122 3-123 3-124 3-45 3-46 3-47 3-48" />
+			</w>
+			<w n="2-177" tp="sen_25">
+				<text>is</text>
+				<refs nrefs=" | 3-119 3-120 3-121 3-122 3-123 3-124 3-45 3-46 3-47 3-48" />
+			</w>
+			<w n="2-178" tp="sen_25">
+				<text>wont</text>
+				<refs nrefs=" | 3-119 3-120 3-121 3-122 3-123 3-124 3-45 3-46 3-47 3-48" />
+			</w>
+			<w n="2-179" tp="sen_25">
+				<text>to</text>
+				<refs nrefs=" | 3-119 3-120 3-121 3-122 3-123 3-124 3-45 3-46 3-47 3-48" />
+			</w>
+			<w n="2-180" tp="sen_25">
+				<text>be</text>
+				<refs nrefs=" | 3-119 3-120 3-121 3-122 3-123 3-124 3-45 3-46 3-47 3-48" />
+			</w>
+			<w n="2-181" tp="sen_25">
+				<text>done</text>
+				<refs nrefs=" | 3-119 3-120 3-121 3-122 3-123 3-124 3-45 3-46 3-47 3-48" />
+			</w>
+			<w n="2-182" tp="sen_23">
+				<text>for</text>
+				<refs nrefs=" | 3-125 3-126 3-127 3-49 3-50" />
+			</w>
+			<w n="2-183" tp="sen_23">
+				<text>the</text>
+				<refs nrefs=" | 3-125 3-126 3-127 3-49 3-50" />
+			</w>
+			<w n="2-184" tp="sen_23">
+				<text>gods</text>
+				<refs nrefs=" | 3-125 3-126 3-127 3-49 3-50" />
+			</w>
+			<w n="2-185" tp="sen_24">
+				<text>in</text>
+				<refs nrefs=" | 3-128 3-129 3-131 3-51 3-52 3-54" />
+			</w>
+			<w n="2-186" tp="sen_24">
+				<text>fitting</text>
+				<refs nrefs=" | 3-128 3-129 3-131 3-51 3-52 3-54" />
+			</w>
+			<w n="2-187" tp="sen_24">
+				<text>manner</text>
+				<refs nrefs=" | 3-128 3-129 3-131 3-51 3-52 3-54" />
+			</w>
+			<w n="2-188" tp="">
+				<text>,</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-189" tp="sen_28">
+				<text>likewise</text>
+				<refs nrefs=" | 3-133 3-134 3-55 3-56 3-57" />
+			</w>
+			<w n="2-190" tp="sen_29">
+				<text>to</text>
+				<refs nrefs=" | 3-135 3-136 3-137 3-61" />
+			</w>
+			<w n="2-191" tp="sen_29">
+				<text>see</text>
+				<refs nrefs=" | 3-135 3-136 3-137 3-61" />
+			</w>
+			<w n="2-192" tp="sen_29">
+				<text>to</text>
+				<refs nrefs=" | 3-135 3-136 3-137 3-61" />
+			</w>
+			<w n="2-193" tp="sen_29">
+				<text>the</text>
+				<refs nrefs=" | 3-135 3-136 3-137 3-61" />
+			</w>
+			<w n="2-194" tp="sen_29">
+				<text>dispensing</text>
+				<refs nrefs=" | 3-135 3-136 3-137 3-61" />
+			</w>
+			<w n="2-195" tp="sen_29">
+				<text>of</text>
+				<refs nrefs=" | 3-135 3-136 3-137 3-61" />
+			</w>
+			<w n="2-196" tp="sen_26">
+				<text>justice</text>
+				<refs nrefs=" | 3-138 3-58 3-59" />
+			</w>
+			<w n="2-197" tp="sen_27">
+				<text>to</text>
+				<refs nrefs=" | 3-139 3-140 3-60" />
+			</w>
+			<w n="2-198" tp="sen_27">
+				<text>mankind</text>
+				<refs nrefs=" | 3-139 3-140 3-60" />
+			</w>
+			<w n="2-199" tp="sen_10">
+				<text>like</text>
+				<refs nrefs=" | 3-141 3-63" />
+			</w>
+			<w n="2-200" tp="sen_11">
+				<text>Thoth</text>
+				<refs nrefs=" | 3-142 3-64" />
+			</w>
+			<w n="2-201" tp="sen_12">
+				<text>the</text>
+				<refs nrefs=" | 3-143 3-144 3-145 3-146 3-65 3-66 3-67 3-68" />
+			</w>
+			<w n="2-202" tp="sen_12">
+				<text>twice</text>
+				<refs nrefs=" | 3-143 3-144 3-145 3-146 3-65 3-66 3-67 3-68" />
+			</w>
+			<w n="2-203" tp="sen_12">
+				<text>great</text>
+				<refs nrefs=" | 3-143 3-144 3-145 3-146 3-65 3-66 3-67 3-68" />
+			</w>
+			<w n="2-204" tp="">
+				<text>.</text>
+				<refs nrefs="" />
+			</w>
+		</wds>
+		<wds lnum="L3">
+			<w n="3-1" tp="sen_1">
+				<text>προσέταξεν</text>
+				<refs nrefs=" | 2-1 2-121 2-122 2-123 2-2" />
+			</w>
+			<w n="3-2" tp="">
+				<text>δὲ</text>
+				<refs nrefs="" />
+			</w>
+			<w n="3-3" tp="">
+				<text>καὶ</text>
+				<refs nrefs="" />
+			</w>
+			<w n="3-4" tp="sen_5">
+				<text>τὴν</text>
+				<refs nrefs=" | 2-126 2-5" />
+			</w>
+			<w n="3-5" tp="sen_5">
+				<text>σύλληψιν</text>
+				<refs nrefs=" | 2-126 2-5" />
+			</w>
+			<w n="3-6" tp="sen_5">
+				<text>τῶν</text>
+				<refs nrefs=" | 2-126 2-5" />
+			</w>
+			<w n="3-7" tp="">
+				<text>εἰς</text>
+				<refs nrefs="" />
+			</w>
+			<w n="3-8" tp="sen_6">
+				<text>τὴν</text>
+				<refs nrefs=" | 2-127 2-6" />
+			</w>
+			<w n="3-9" tp="sen_6">
+				<text>ναυτείαν</text>
+				<refs nrefs=" | 2-127 2-6" />
+			</w>
+			<w n="3-10" tp="sen_4">
+				<text>μὴ</text>
+				<refs nrefs=" | 2-124 2-125 2-3 2-4" />
+			</w>
+			<w n="3-11" tp="sen_5">
+				<text>ποιεῖσθαι</text>
+				<refs nrefs=" | 2-126 2-5" />
+			</w>
+			<w n="3-12" tp="">
+				<text>,</text>
+				<refs nrefs="" />
+			</w>
+			<w n="3-13" tp="sen_15">
+				<text>τῶν</text>
+				<refs nrefs=" | 2-133 2-134 2-135 2-136 2-14 2-15 2-16 2-18 2-20 2-21 2-22" />
+			</w>
+			<w n="3-14" tp="">
+				<text>τ’</text>
+				<refs nrefs="" />
+			</w>
+			<w n="3-15" tp="sen_14">
+				<text>εἰς</text>
+				<refs nrefs=" | 2-140 2-141 2-142 2-26 2-27" />
+			</w>
+			<w n="3-16" tp="sen_14">
+				<text>τὸ</text>
+				<refs nrefs=" | 2-140 2-141 2-142 2-26 2-27" />
+			</w>
+			<w n="3-17" tp="sen_14">
+				<text>βασιλικὸν</text>
+				<refs nrefs=" | 2-140 2-141 2-142 2-26 2-27" />
+			</w>
+			<w n="3-18" tp="sen_16">
+				<text>συντελουμένων</text>
+				<refs nrefs=" | 2-137 2-138 2-139 2-23 2-24 2-25" />
+			</w>
+			<w n="3-19" tp="sen_13">
+				<text>ἐν</text>
+				<refs nrefs=" | 2-143 2-144 2-145 2-28 2-29 2-30 2-31 2-32" />
+			</w>
+			<w n="3-20" tp="sen_13">
+				<text>τοῖς</text>
+				<refs nrefs=" | 2-143 2-144 2-145 2-28 2-29 2-30 2-31 2-32" />
+			</w>
+			<w n="3-21" tp="sen_13">
+				<text>ἱεροῖς</text>
+				<refs nrefs=" | 2-143 2-144 2-145 2-28 2-29 2-30 2-31 2-32" />
+			</w>
+			<w n="3-22" tp="sen_15">
+				<text>βυσσίνων</text>
+				<refs nrefs=" | 2-133 2-134 2-135 2-136 2-14 2-15 2-16 2-18 2-20 2-21 2-22" />
+			</w>
+			<w n="3-23" tp="">
+				<text>|18</text>
+				<refs nrefs="" />
+			</w>
+			<w n="3-24" tp="sen_15">
+				<text>ὀθονίων</text>
+				<refs nrefs=" | 2-133 2-134 2-135 2-136 2-14 2-15 2-16 2-18 2-20 2-21 2-22" />
+			</w>
+			<w n="3-25" tp="sen_7">
+				<text>ἀπέλυσεν</text>
+				<refs nrefs=" | 2-129 2-130 2-131 2-7 2-8" />
+			</w>
+			<w n="3-26" tp="sen_8">
+				<text>τὰ</text>
+				<refs nrefs=" | 2-10 2-11 2-12 2-13 2-132 2-9" />
+			</w>
+			<w n="3-27" tp="sen_8">
+				<text>δύο</text>
+				<refs nrefs=" | 2-10 2-11 2-12 2-13 2-132 2-9" />
+			</w>
+			<w n="3-28" tp="sen_8">
+				<text>μέρη</text>
+				<refs nrefs=" | 2-10 2-11 2-12 2-13 2-132 2-9" />
+			</w>
+			<w n="3-29" tp="">
+				<text>,</text>
+				<refs nrefs="" />
+			</w>
+			<w n="3-30" tp="sen_19">
+				<text>τά</text>
+				<refs nrefs=" | 2-148 2-149 2-150 2-151 2-152 2-43 2-44 2-45 2-46 2-47 2-48" />
+			</w>
+			<w n="3-31" tp="">
+				<text>τε</text>
+				<refs nrefs="" />
+			</w>
+			<w n="3-32" tp="sen_19">
+				<text>ἐγλελειμμένα</text>
+				<refs nrefs=" | 2-148 2-149 2-150 2-151 2-152 2-43 2-44 2-45 2-46 2-47 2-48" />
+			</w>
+			<w n="3-33" tp="sen_18">
+				<text>πάντα</text>
+				<refs nrefs=" | 2-147 2-33 2-35 2-36 2-38 2-40 2-41" />
+			</w>
+			<w n="3-34" tp="sen_17">
+				<text>ἐν</text>
+				<refs nrefs=" | 2-153 2-154 2-155 2-49 2-50 2-51" />
+			</w>
+			<w n="3-35" tp="sen_17">
+				<text>τοῖς</text>
+				<refs nrefs=" | 2-153 2-154 2-155 2-49 2-50 2-51" />
+			</w>
+			<w n="3-36" tp="sen_17">
+				<text>πρότερον</text>
+				<refs nrefs=" | 2-153 2-154 2-155 2-49 2-50 2-51" />
+			</w>
+			<w n="3-37" tp="sen_17">
+				<text>χρόνοις</text>
+				<refs nrefs=" | 2-153 2-154 2-155 2-49 2-50 2-51" />
+			</w>
+			<w n="3-38" tp="sen_20">
+				<text>ἀποκατέστησεν</text>
+				<refs nrefs=" | 2-156 2-157 2-158 2-52 2-53 2-54" />
+			</w>
+			<w n="3-39" tp="sen_21">
+				<text>εἰς</text>
+				<refs nrefs=" | 2-159 2-160 2-163 2-165 2-56 2-58 2-59 2-60 2-63" />
+			</w>
+			<w n="3-40" tp="sen_21">
+				<text>τὴν</text>
+				<refs nrefs=" | 2-159 2-160 2-163 2-165 2-56 2-58 2-59 2-60 2-63" />
+			</w>
+			<w n="3-41" tp="sen_21">
+				<text>καθήκουσαν</text>
+				<refs nrefs=" | 2-159 2-160 2-163 2-165 2-56 2-58 2-59 2-60 2-63" />
+			</w>
+			<w n="3-42" tp="sen_21">
+				<text>τάξιν</text>
+				<refs nrefs=" | 2-159 2-160 2-163 2-165 2-56 2-58 2-59 2-60 2-63" />
+			</w>
+			<w n="3-43" tp="">
+				<text>,</text>
+				<refs nrefs="" />
+			</w>
+			<w n="3-44" tp="sen_22">
+				<text>φροντίζων</text>
+				<refs nrefs=" | 2-167 2-168 2-169 2-170 2-171 2-65 2-66 2-67 2-68" />
+			</w>
+			<w n="3-45" tp="sen_25">
+				<text>ὅπως</text>
+				<refs nrefs=" | 2-172 2-173 2-174 2-175 2-176 2-177 2-178 2-179 2-180 2-181 2-69 2-70 2-71 2-72 2-73 2-74 2-75 2-76 2-77 2-78 2-79" />
+			</w>
+			<w n="3-46" tp="sen_25">
+				<text>τὰ</text>
+				<refs nrefs=" | 2-172 2-173 2-174 2-175 2-176 2-177 2-178 2-179 2-180 2-181 2-69 2-70 2-71 2-72 2-73 2-74 2-75 2-76 2-77 2-78 2-79" />
+			</w>
+			<w n="3-47" tp="sen_25">
+				<text>εἰθισμένα</text>
+				<refs nrefs=" | 2-172 2-173 2-174 2-175 2-176 2-177 2-178 2-179 2-180 2-181 2-69 2-70 2-71 2-72 2-73 2-74 2-75 2-76 2-77 2-78 2-79" />
+			</w>
+			<w n="3-48" tp="sen_25">
+				<text>συντελῆται</text>
+				<refs nrefs=" | 2-172 2-173 2-174 2-175 2-176 2-177 2-178 2-179 2-180 2-181 2-69 2-70 2-71 2-72 2-73 2-74 2-75 2-76 2-77 2-78 2-79" />
+			</w>
+			<w n="3-49" tp="sen_23">
+				<text>τοῖς</text>
+				<refs nrefs=" | 2-182 2-183 2-184 2-80 2-81 2-82 2-83 2-84" />
+			</w>
+			<w n="3-50" tp="sen_23">
+				<text>θεοῖς</text>
+				<refs nrefs=" | 2-182 2-183 2-184 2-80 2-81 2-82 2-83 2-84" />
+			</w>
+			<w n="3-51" tp="sen_24">
+				<text>κατὰ</text>
+				<refs nrefs=" | 2-185 2-186 2-187 2-85 2-86 2-87 2-88 2-89 2-90" />
+			</w>
+			<w n="3-52" tp="sen_24">
+				<text>τὸ</text>
+				<refs nrefs=" | 2-185 2-186 2-187 2-85 2-86 2-87 2-88 2-89 2-90" />
+			</w>
+			<w n="3-53" tp="">
+				<text>|19</text>
+				<refs nrefs="" />
+			</w>
+			<w n="3-54" tp="sen_24">
+				<text>προσῆκον</text>
+				<refs nrefs=" | 2-185 2-186 2-187 2-85 2-86 2-87 2-88 2-89 2-90" />
+			</w>
+			<w n="3-55" tp="sen_28">
+				<text>ὁμοίως</text>
+				<refs nrefs=" | 2-189 2-91 2-92" />
+			</w>
+			<w n="3-56" tp="sen_28">
+				<text>δὲ</text>
+				<refs nrefs=" | 2-189 2-91 2-92" />
+			</w>
+			<w n="3-57" tp="sen_28">
+				<text>καὶ</text>
+				<refs nrefs=" | 2-189 2-91 2-92" />
+			</w>
+			<w n="3-58" tp="sen_26">
+				<text>τὸ</text>
+				<refs nrefs=" | 2-196 2-98 2-99" />
+			</w>
+			<w n="3-59" tp="sen_26">
+				<text>δίκαιον</text>
+				<refs nrefs=" | 2-196 2-98 2-99" />
+			</w>
+			<w n="3-60" tp="sen_27">
+				<text>πάσιν</text>
+				<refs nrefs=" | 2-100 2-101 2-102 2-103 2-104 2-197 2-198" />
+			</w>
+			<w n="3-61" tp="sen_29">
+				<text>ἀπένειμεν</text>
+				<refs nrefs=" | 2-190 2-191 2-192 2-193 2-194 2-195 2-93 2-94 2-95 2-96 2-97" />
+			</w>
+			<w n="3-62" tp="">
+				<text>,</text>
+				<refs nrefs="" />
+			</w>
+			<w n="3-63" tp="sen_10">
+				<text>καθάπερ</text>
+				<refs nrefs=" | 2-105 2-106 2-107 2-199" />
+			</w>
+			<w n="3-64" tp="sen_11">
+				<text>Ἑρμῆς</text>
+				<refs nrefs=" | 2-114 2-115 2-116 2-200" />
+			</w>
+			<w n="3-65" tp="sen_12">
+				<text>ὁ</text>
+				<refs nrefs=" | 2-117 2-118 2-201 2-202 2-203" />
+			</w>
+			<w n="3-66" tp="sen_12">
+				<text>μέγας</text>
+				<refs nrefs=" | 2-117 2-118 2-201 2-202 2-203" />
+			</w>
+			<w n="3-67" tp="sen_12">
+				<text>καὶ</text>
+				<refs nrefs=" | 2-117 2-118 2-201 2-202 2-203" />
+			</w>
+			<w n="3-68" tp="sen_12">
+				<text>μέγας</text>
+				<refs nrefs=" | 2-117 2-118 2-201 2-202 2-203" />
+			</w>
+			<w n="3-69" tp="">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			<w n="3-70" tp="">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			<w n="3-71" tp="">
+				<text>and</text>
+				<refs nrefs="" />
+			</w>
+			<w n="3-72" tp="sen_1">
+				<text>he</text>
+				<refs nrefs=" | 2-1 2-121 2-122 2-123 2-2" />
+			</w>
+			<w n="3-73" tp="sen_1">
+				<text>has</text>
+				<refs nrefs=" | 2-1 2-121 2-122 2-123 2-2" />
+			</w>
+			<w n="3-74" tp="sen_1">
+				<text>ordered</text>
+				<refs nrefs=" | 2-1 2-121 2-122 2-123 2-2" />
+			</w>
+			<w n="3-75" tp="sen_5">
+				<text>impressment</text>
+				<refs nrefs=" | 2-126 2-5" />
+			</w>
+			<w n="3-76" tp="">
+				<text>for</text>
+				<refs nrefs="" />
+			</w>
+			<w n="3-77" tp="sen_6">
+				<text>the</text>
+				<refs nrefs=" | 2-127 2-6" />
+			</w>
+			<w n="3-78" tp="sen_6">
+				<text>navy</text>
+				<refs nrefs=" | 2-127 2-6" />
+			</w>
+			<w n="3-79" tp="sen_4">
+				<text>not</text>
+				<refs nrefs=" | 2-124 2-125 2-3 2-4" />
+			</w>
+			<w n="3-80" tp="sen_4">
+				<text>to</text>
+				<refs nrefs=" | 2-124 2-125 2-3 2-4" />
+			</w>
+			<w n="3-81" tp="sen_5">
+				<text>be</text>
+				<refs nrefs=" | 2-126 2-5" />
+			</w>
+			<w n="3-82" tp="sen_5">
+				<text>practised</text>
+				<refs nrefs=" | 2-126 2-5" />
+			</w>
+			<w n="3-83" tp="">
+				<text>;</text>
+				<refs nrefs="" />
+			</w>
+			<w n="3-84" tp="">
+				<text>and</text>
+				<refs nrefs="" />
+			</w>
+			<w n="3-85" tp="">
+				<text>of</text>
+				<refs nrefs="" />
+			</w>
+			<w n="3-86" tp="">
+				<text>the</text>
+				<refs nrefs="" />
+			</w>
+			<w n="3-87" tp="">
+				<text>taxes</text>
+				<refs nrefs="" />
+			</w>
+			<w n="3-88" tp="sen_15">
+				<text>on</text>
+				<refs nrefs=" | 2-133 2-134 2-135 2-136 2-14 2-15 2-16 2-18 2-20 2-21 2-22" />
+			</w>
+			<w n="3-89" tp="sen_15">
+				<text>byssos</text>
+				<refs nrefs=" | 2-133 2-134 2-135 2-136 2-14 2-15 2-16 2-18 2-20 2-21 2-22" />
+			</w>
+			<w n="3-90" tp="sen_15">
+				<text>cloth</text>
+				<refs nrefs=" | 2-133 2-134 2-135 2-136 2-14 2-15 2-16 2-18 2-20 2-21 2-22" />
+			</w>
+			<w n="3-91" tp="sen_16">
+				<text>paid</text>
+				<refs nrefs=" | 2-137 2-138 2-139 2-23 2-24 2-25" />
+			</w>
+			<w n="3-92" tp="sen_13">
+				<text>by</text>
+				<refs nrefs=" | 2-143 2-144 2-145 2-28 2-29 2-30 2-31 2-32" />
+			</w>
+			<w n="3-93" tp="sen_13">
+				<text>the</text>
+				<refs nrefs=" | 2-143 2-144 2-145 2-28 2-29 2-30 2-31 2-32" />
+			</w>
+			<w n="3-94" tp="sen_13">
+				<text>temples</text>
+				<refs nrefs=" | 2-143 2-144 2-145 2-28 2-29 2-30 2-31 2-32" />
+			</w>
+			<w n="3-95" tp="sen_14">
+				<text>to</text>
+				<refs nrefs=" | 2-140 2-141 2-142 2-26 2-27" />
+			</w>
+			<w n="3-96" tp="sen_14">
+				<text>the</text>
+				<refs nrefs=" | 2-140 2-141 2-142 2-26 2-27" />
+			</w>
+			<w n="3-97" tp="sen_14">
+				<text>Crown</text>
+				<refs nrefs=" | 2-140 2-141 2-142 2-26 2-27" />
+			</w>
+			<w n="3-98" tp="">
+				<text>|18</text>
+				<refs nrefs="" />
+			</w>
+			<w n="3-99" tp="sen_7">
+				<text>he</text>
+				<refs nrefs=" | 2-129 2-130 2-131 2-7 2-8" />
+			</w>
+			<w n="3-100" tp="sen_7">
+				<text>has</text>
+				<refs nrefs=" | 2-129 2-130 2-131 2-7 2-8" />
+			</w>
+			<w n="3-101" tp="sen_7">
+				<text>remitted</text>
+				<refs nrefs=" | 2-129 2-130 2-131 2-7 2-8" />
+			</w>
+			<w n="3-102" tp="sen_8">
+				<text>two-thirds</text>
+				<refs nrefs=" | 2-10 2-11 2-12 2-13 2-132 2-9" />
+			</w>
+			<w n="3-103" tp="">
+				<text>.</text>
+				<refs nrefs="" />
+			</w>
+			<w n="3-104" tp="sen_18">
+				<text>All</text>
+				<refs nrefs=" | 2-147 2-33 2-35 2-36 2-38 2-40 2-41" />
+			</w>
+			<w n="3-105" tp="sen_19">
+				<text>that</text>
+				<refs nrefs=" | 2-148 2-149 2-150 2-151 2-152 2-43 2-44 2-45 2-46 2-47 2-48" />
+			</w>
+			<w n="3-106" tp="sen_19">
+				<text>was</text>
+				<refs nrefs=" | 2-148 2-149 2-150 2-151 2-152 2-43 2-44 2-45 2-46 2-47 2-48" />
+			</w>
+			<w n="3-107" tp="sen_19">
+				<text>neglected</text>
+				<refs nrefs=" | 2-148 2-149 2-150 2-151 2-152 2-43 2-44 2-45 2-46 2-47 2-48" />
+			</w>
+			<w n="3-108" tp="sen_17">
+				<text>in</text>
+				<refs nrefs=" | 2-153 2-154 2-155 2-49 2-50 2-51" />
+			</w>
+			<w n="3-109" tp="sen_17">
+				<text>former</text>
+				<refs nrefs=" | 2-153 2-154 2-155 2-49 2-50 2-51" />
+			</w>
+			<w n="3-110" tp="sen_17">
+				<text>times</text>
+				<refs nrefs=" | 2-153 2-154 2-155 2-49 2-50 2-51" />
+			</w>
+			<w n="3-111" tp="sen_20">
+				<text>he</text>
+				<refs nrefs=" | 2-156 2-157 2-158 2-52 2-53 2-54" />
+			</w>
+			<w n="3-112" tp="sen_20">
+				<text>has</text>
+				<refs nrefs=" | 2-156 2-157 2-158 2-52 2-53 2-54" />
+			</w>
+			<w n="3-113" tp="sen_20">
+				<text>restored</text>
+				<refs nrefs=" | 2-156 2-157 2-158 2-52 2-53 2-54" />
+			</w>
+			<w n="3-114" tp="sen_21">
+				<text>to</text>
+				<refs nrefs=" | 2-159 2-160 2-163 2-165 2-56 2-58 2-59 2-60 2-63" />
+			</w>
+			<w n="3-115" tp="sen_21">
+				<text>order</text>
+				<refs nrefs=" | 2-159 2-160 2-163 2-165 2-56 2-58 2-59 2-60 2-63" />
+			</w>
+			<w n="3-116" tp="">
+				<text>,</text>
+				<refs nrefs="" />
+			</w>
+			<w n="3-117" tp="sen_22">
+				<text>being</text>
+				<refs nrefs=" | 2-167 2-168 2-169 2-170 2-171 2-65 2-66 2-67 2-68" />
+			</w>
+			<w n="3-118" tp="sen_22">
+				<text>concerned</text>
+				<refs nrefs=" | 2-167 2-168 2-169 2-170 2-171 2-65 2-66 2-67 2-68" />
+			</w>
+			<w n="3-119" tp="sen_25">
+				<text>that</text>
+				<refs nrefs=" | 2-172 2-173 2-174 2-175 2-176 2-177 2-178 2-179 2-180 2-181 2-69 2-70 2-71 2-72 2-73 2-74 2-75 2-76 2-77 2-78 2-79" />
+			</w>
+			<w n="3-120" tp="sen_25">
+				<text>the</text>
+				<refs nrefs=" | 2-172 2-173 2-174 2-175 2-176 2-177 2-178 2-179 2-180 2-181 2-69 2-70 2-71 2-72 2-73 2-74 2-75 2-76 2-77 2-78 2-79" />
+			</w>
+			<w n="3-121" tp="sen_25">
+				<text>traditional</text>
+				<refs nrefs=" | 2-172 2-173 2-174 2-175 2-176 2-177 2-178 2-179 2-180 2-181 2-69 2-70 2-71 2-72 2-73 2-74 2-75 2-76 2-77 2-78 2-79" />
+			</w>
+			<w n="3-122" tp="sen_25">
+				<text>duties</text>
+				<refs nrefs=" | 2-172 2-173 2-174 2-175 2-176 2-177 2-178 2-179 2-180 2-181 2-69 2-70 2-71 2-72 2-73 2-74 2-75 2-76 2-77 2-78 2-79" />
+			</w>
+			<w n="3-123" tp="sen_25">
+				<text>be</text>
+				<refs nrefs=" | 2-172 2-173 2-174 2-175 2-176 2-177 2-178 2-179 2-180 2-181 2-69 2-70 2-71 2-72 2-73 2-74 2-75 2-76 2-77 2-78 2-79" />
+			</w>
+			<w n="3-124" tp="sen_25">
+				<text>paid</text>
+				<refs nrefs=" | 2-172 2-173 2-174 2-175 2-176 2-177 2-178 2-179 2-180 2-181 2-69 2-70 2-71 2-72 2-73 2-74 2-75 2-76 2-77 2-78 2-79" />
+			</w>
+			<w n="3-125" tp="sen_23">
+				<text>to</text>
+				<refs nrefs=" | 2-182 2-183 2-184 2-80 2-81 2-82 2-83 2-84" />
+			</w>
+			<w n="3-126" tp="sen_23">
+				<text>the</text>
+				<refs nrefs=" | 2-182 2-183 2-184 2-80 2-81 2-82 2-83 2-84" />
+			</w>
+			<w n="3-127" tp="sen_23">
+				<text>gods</text>
+				<refs nrefs=" | 2-182 2-183 2-184 2-80 2-81 2-82 2-83 2-84" />
+			</w>
+			<w n="3-128" tp="sen_24">
+				<text>as</text>
+				<refs nrefs=" | 2-185 2-186 2-187 2-85 2-86 2-87 2-88 2-89 2-90" />
+			</w>
+			<w n="3-129" tp="sen_24">
+				<text>is</text>
+				<refs nrefs=" | 2-185 2-186 2-187 2-85 2-86 2-87 2-88 2-89 2-90" />
+			</w>
+			<w n="3-130" tp="">
+				<text>|19</text>
+				<refs nrefs="" />
+			</w>
+			<w n="3-131" tp="sen_24">
+				<text>fitting</text>
+				<refs nrefs=" | 2-185 2-186 2-187 2-85 2-86 2-87 2-88 2-89 2-90" />
+			</w>
+			<w n="3-132" tp="">
+				<text>;</text>
+				<refs nrefs="" />
+			</w>
+			<w n="3-133" tp="sen_28">
+				<text>and</text>
+				<refs nrefs=" | 2-189 2-91 2-92" />
+			</w>
+			<w n="3-134" tp="sen_28">
+				<text>likewise</text>
+				<refs nrefs=" | 2-189 2-91 2-92" />
+			</w>
+			<w n="3-135" tp="sen_29">
+				<text>he</text>
+				<refs nrefs=" | 2-190 2-191 2-192 2-193 2-194 2-195 2-93 2-94 2-95 2-96 2-97" />
+			</w>
+			<w n="3-136" tp="sen_29">
+				<text>has</text>
+				<refs nrefs=" | 2-190 2-191 2-192 2-193 2-194 2-195 2-93 2-94 2-95 2-96 2-97" />
+			</w>
+			<w n="3-137" tp="sen_29">
+				<text>apportioned</text>
+				<refs nrefs=" | 2-190 2-191 2-192 2-193 2-194 2-195 2-93 2-94 2-95 2-96 2-97" />
+			</w>
+			<w n="3-138" tp="sen_26">
+				<text>justice</text>
+				<refs nrefs=" | 2-196 2-98 2-99" />
+			</w>
+			<w n="3-139" tp="sen_27">
+				<text>to</text>
+				<refs nrefs=" | 2-100 2-101 2-102 2-103 2-104 2-197 2-198" />
+			</w>
+			<w n="3-140" tp="sen_27">
+				<text>all</text>
+				<refs nrefs=" | 2-100 2-101 2-102 2-103 2-104 2-197 2-198" />
+			</w>
+			<w n="3-141" tp="sen_10">
+				<text>like</text>
+				<refs nrefs=" | 2-105 2-106 2-107 2-199" />
+			</w>
+			<w n="3-142" tp="sen_11">
+				<text>Hermes</text>
+				<refs nrefs=" | 2-114 2-115 2-116 2-200" />
+			</w>
+			<w n="3-143" tp="sen_12">
+				<text>the</text>
+				<refs nrefs=" | 2-117 2-118 2-201 2-202 2-203" />
+			</w>
+			<w n="3-144" tp="sen_12">
+				<text>great</text>
+				<refs nrefs=" | 2-117 2-118 2-201 2-202 2-203" />
+			</w>
+			<w n="3-145" tp="sen_12">
+				<text>and</text>
+				<refs nrefs=" | 2-117 2-118 2-201 2-202 2-203" />
+			</w>
+			<w n="3-146" tp="sen_12">
+				<text>great</text>
+				<refs nrefs=" | 2-117 2-118 2-201 2-202 2-203" />
+			</w>
+			<w n="3-147" tp="">
+				<text>.</text>
+				<refs nrefs="" />
+			</w>
+		</wds>
+	</sentence>
+</aligned-text>
+</document>

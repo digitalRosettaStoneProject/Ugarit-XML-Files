@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+<id>25693</id>
+<title>Synopsis HDG 9</title>
+<translator>Quirke/Andrews 1988: 16-22</translator>
+<aligned-text>
+	<language lnum="L1" xml:lang="EGY" />
+	<language lnum="L2" xml:lang="EGY" />
+	<language lnum="L3" xml:lang="GRC" />
+	<sentence n="1">
+		<wds lnum="L1">
+			<w n="1-1" tp="">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-2" tp="">
+				<text>[</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-3" tp="">
+				<text>.</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-4" tp="">
+				<text>.</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-5" tp="">
+				<text>.</text>
+				<refs nrefs="" />
+			</w>
+			<w n="1-6" tp="">
+				<text>]</text>
+				<refs nrefs="" />
+			</w>
+		</wds>
+		<wds lnum="L2">
+			<w n="2-1" tp="">
+				<text>r</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-2" tp="sen_6">
+				<text>Prꜣ</text>
+				<refs nrefs=" | 3-16 3-4" />
+			</w>
+			<w n="2-3" tp="sen_7">
+				<text>sꜣ</text>
+				<refs nrefs=" | 3-17 3-18 3-19 3-5 3-6" />
+			</w>
+			<w n="2-4" tp="sen_7">
+				<text>.</text>
+				<refs nrefs=" | 3-17 3-18 3-19 3-5 3-6" />
+			</w>
+			<w n="2-5" tp="sen_7">
+				<text>t</text>
+				<refs nrefs=" | 3-17 3-18 3-19 3-5 3-6" />
+			</w>
+			<w n="2-6" tp="sen_7">
+				<text>n</text>
+				<refs nrefs=" | 3-17 3-18 3-19 3-5 3-6" />
+			</w>
+			<w n="2-7" tp="sen_7">
+				<text>Pylyns</text>
+				<refs nrefs=" | 3-17 3-18 3-19 3-5 3-6" />
+			</w>
+			<w n="2-8" tp="">
+				<text>(</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-9" tp="sen_8">
+				<text>n</text>
+				<refs nrefs=" | 3-1 3-10 3-11 3-15" />
+			</w>
+			<w n="2-10" tp="">
+				<text>)</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-11" tp="sen_8">
+				<text>fy</text>
+				<refs nrefs=" | 3-1 3-10 3-11 3-15" />
+			</w>
+			<w n="2-12" tp="">
+				<text>(</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-13" tp="sen_8">
+				<text>.</text>
+				<refs nrefs=" | 3-1 3-10 3-11 3-15" />
+			</w>
+			<w n="2-14" tp="sen_8">
+				<text>t</text>
+				<refs nrefs=" | 3-1 3-10 3-11 3-15" />
+			</w>
+			<w n="2-15" tp="">
+				<text>)</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-16" tp="sen_8">
+				<text>šp</text>
+				<refs nrefs=" | 3-1 3-10 3-11 3-15" />
+			</w>
+			<w n="2-17" tp="sen_8">
+				<text>n</text>
+				<refs nrefs=" | 3-1 3-10 3-11 3-15" />
+			</w>
+			<w n="2-18" tp="">
+				<text>(</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-19" tp="">
+				<text>?</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-20" tp="">
+				<text>)</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-21" tp="sen_8">
+				<text>pꜣ</text>
+				<refs nrefs=" | 3-1 3-10 3-11 3-15" />
+			</w>
+			<w n="2-22" tp="sen_8">
+				<text>qny</text>
+				<refs nrefs=" | 3-1 3-10 3-11 3-15" />
+			</w>
+			<w n="2-23" tp="sen_9">
+				<text>m-bꜣḥ</text>
+				<refs nrefs=" | 3-12 3-13 3-2" />
+			</w>
+			<w n="2-24" tp="">
+				<text>(</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-25" tp="sen_9">
+				<text>Brnygꜣ</text>
+				<refs nrefs=" | 3-12 3-13 3-2" />
+			</w>
+			<w n="2-26" tp="">
+				<text>)</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-27" tp="">
+				<text>|</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-28" tp="sen_10">
+				<text>tꜣ</text>
+				<refs nrefs=" | 3-14 3-3" />
+			</w>
+			<w n="2-29" tp="sen_10">
+				<text>mnḫ</text>
+				<refs nrefs=" | 3-14 3-3" />
+			</w>
+			<w n="2-30" tp="sen_10">
+				<text>.</text>
+				<refs nrefs=" | 3-14 3-3" />
+			</w>
+			<w n="2-31" tp="sen_10">
+				<text>t</text>
+				<refs nrefs=" | 3-14 3-3" />
+			</w>
+			<w n="2-32" tp="">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-33" tp="">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-34" tp="">
+				<text>while</text>
+				<refs nrefs="" />
+			</w>
+			<w n="2-35" tp="sen_6">
+				<text>Pyrrha</text>
+				<refs nrefs=" | 3-16 3-4" />
+			</w>
+			<w n="2-36" tp="sen_7">
+				<text>daughter</text>
+				<refs nrefs=" | 3-17 3-18 3-19 3-5 3-6" />
+			</w>
+			<w n="2-37" tp="sen_7">
+				<text>of</text>
+				<refs nrefs=" | 3-17 3-18 3-19 3-5 3-6" />
+			</w>
+			<w n="2-38" tp="sen_7">
+				<text>Philinos</text>
+				<refs nrefs=" | 3-17 3-18 3-19 3-5 3-6" />
+			</w>
+			<w n="2-39" tp="sen_8">
+				<text>bears</text>
+				<refs nrefs=" | 3-1 3-10 3-11 3-15" />
+			</w>
+			<w n="2-40" tp="sen_8">
+				<text>the</text>
+				<refs nrefs=" | 3-1 3-10 3-11 3-15" />
+			</w>
+			<w n="2-41" tp="sen_8">
+				<text>trophy</text>
+				<refs nrefs=" | 3-1 3-10 3-11 3-15" />
+			</w>
+			<w n="2-42" tp="sen_8">
+				<text>of</text>
+				<refs nrefs=" | 3-1 3-10 3-11 3-15" />
+			</w>
+			<w n="2-43" tp="sen_8">
+				<text>victory</text>
+				<refs nrefs=" | 3-1 3-10 3-11 3-15" />
+			</w>
+			<w n="2-44" tp="sen_9">
+				<text>before</text>
+				<refs nrefs=" | 3-12 3-13 3-2" />
+			</w>
+			<w n="2-45" tp="sen_9">
+				<text>Berenice</text>
+				<refs nrefs=" | 3-12 3-13 3-2" />
+			</w>
+			<w n="2-46" tp="sen_10">
+				<text>the</text>
+				<refs nrefs=" | 3-14 3-3" />
+			</w>
+			<w n="2-47" tp="sen_10">
+				<text>beneficent</text>
+				<refs nrefs=" | 3-14 3-3" />
+			</w>
+		</wds>
+		<wds lnum="L3">
+			<w n="3-1" tp="sen_8">
+				<text>ἀθλοφόρου</text>
+				<refs nrefs=" | 2-11 2-13 2-14 2-16 2-17 2-21 2-22 2-39 2-40 2-41 2-42 2-43 2-9" />
+			</w>
+			<w n="3-2" tp="sen_9">
+				<text>Βερενίκης</text>
+				<refs nrefs=" | 2-23 2-25 2-44 2-45" />
+			</w>
+			<w n="3-3" tp="sen_10">
+				<text>Εὐεργέτιδος</text>
+				<refs nrefs=" | 2-28 2-29 2-30 2-31 2-46 2-47" />
+			</w>
+			<w n="3-4" tp="sen_6">
+				<text>Πύρρας</text>
+				<refs nrefs=" | 2-2 2-35" />
+			</w>
+			<w n="3-5" tp="sen_7">
+				<text>τῆς</text>
+				<refs nrefs=" | 2-3 2-36 2-37 2-38 2-4 2-5 2-6 2-7" />
+			</w>
+			<w n="3-6" tp="sen_7">
+				<text>Φιλίνου</text>
+				<refs nrefs=" | 2-3 2-36 2-37 2-38 2-4 2-5 2-6 2-7" />
+			</w>
+			<w n="3-7" tp="">
+				<text>,</text>
+				<refs nrefs="" />
+			</w>
+			<w n="3-8" tp="">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			<w n="3-9" tp="">
+				<text>###</text>
+				<refs nrefs="" />
+			</w>
+			<w n="3-10" tp="sen_8">
+				<text>the</text>
+				<refs nrefs=" | 2-11 2-13 2-14 2-16 2-17 2-21 2-22 2-39 2-40 2-41 2-42 2-43 2-9" />
+			</w>
+			<w n="3-11" tp="sen_8">
+				<text>athlophoros</text>
+				<refs nrefs=" | 2-11 2-13 2-14 2-16 2-17 2-21 2-22 2-39 2-40 2-41 2-42 2-43 2-9" />
+			</w>
+			<w n="3-12" tp="sen_9">
+				<text>of</text>
+				<refs nrefs=" | 2-23 2-25 2-44 2-45" />
+			</w>
+			<w n="3-13" tp="sen_9">
+				<text>Berenice</text>
+				<refs nrefs=" | 2-23 2-25 2-44 2-45" />
+			</w>
+			<w n="3-14" tp="sen_10">
+				<text>Euergetes</text>
+				<refs nrefs=" | 2-28 2-29 2-30 2-31 2-46 2-47" />
+			</w>
+			<w n="3-15" tp="sen_8">
+				<text>being</text>
+				<refs nrefs=" | 2-11 2-13 2-14 2-16 2-17 2-21 2-22 2-39 2-40 2-41 2-42 2-43 2-9" />
+			</w>
+			<w n="3-16" tp="sen_6">
+				<text>Pyrrha</text>
+				<refs nrefs=" | 2-2 2-35" />
+			</w>
+			<w n="3-17" tp="sen_7">
+				<text>daughter</text>
+				<refs nrefs=" | 2-3 2-36 2-37 2-38 2-4 2-5 2-6 2-7" />
+			</w>
+			<w n="3-18" tp="sen_7">
+				<text>of</text>
+				<refs nrefs=" | 2-3 2-36 2-37 2-38 2-4 2-5 2-6 2-7" />
+			</w>
+			<w n="3-19" tp="sen_7">
+				<text>Philinos</text>
+				<refs nrefs=" | 2-3 2-36 2-37 2-38 2-4 2-5 2-6 2-7" />
+			</w>
+			<w n="3-20" tp="">
+				<text>,</text>
+				<refs nrefs="" />
+			</w>
+		</wds>
+	</sentence>
+</aligned-text>
+</document>
